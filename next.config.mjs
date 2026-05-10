@@ -2,8 +2,8 @@
 const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
-  basePath: '/PROJECT-X-client',
-  assetPrefix: '/PROJECT-X-client',
+  basePath: '/X-client-v1.0',
+  assetPrefix: '/X-client-v1.0',
   trailingSlash: true,  // Добавляем слеш в конце
 };
 
